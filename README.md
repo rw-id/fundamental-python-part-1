@@ -6,7 +6,7 @@
 3. Looping
 4. List data type
 5. Dictionary data type
-6. Finish project
+6. Complete the project
 
 ## Part 2 : Modularization
 1. Introduction with Function
@@ -18,5 +18,5 @@
 2. Inheritance
 3. Polymorphism
 4. Study case OOP with BeautifulSoup4
-5. Finish project
+5. Complete the project
 
