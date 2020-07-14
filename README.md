@@ -1,6 +1,6 @@
 # Fundamental Python
 
-## Part 1 : Basic syntax
+## Part 1 : Basic Syntax
 1. Sequential
 2. Branching
 3. Looping
