@@ -6,12 +6,7 @@
 3. Looping
 4. List data type
 5. Dictionary data type
-6. Complete the project
 
-## Part 2 : Modularization
-1. Introduction with Function
-2. Introduction with Package
-3. Using Package Requests
 
 ## Part 3 : Object Oriented Programming
 1. Encapsulation
